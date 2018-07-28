@@ -10,9 +10,3 @@ The ANN has 3 hidden layers, and uses an Adam optimizer. The accuracy I achieve 
 
 This project uses Python 3. You will need TensorFlow, Theano, Keras, Numpy, Matplotlib, and so on. I used Spyder on Anaconda to code this.
 
-
-## Acknowledgments
-
-A-Z AI for the Udemy course
-
-
